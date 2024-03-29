@@ -1,0 +1,9 @@
+-
+  ros1_package_name: 'walker_arm'
+  ros1_message_name: 'HandEyeCtrlRos'
+  ros2_package_name: 'walker_arm'
+  ros2_message_name: 'HandEyeCtrlRos'
+  fields_1_to_2:
+    startJoints: 'start_joints'
+    intermediateJoints: 'intermediate_joints'
+    endJoints: 'end_joints'
